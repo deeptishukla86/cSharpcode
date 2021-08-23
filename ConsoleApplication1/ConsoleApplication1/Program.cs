@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             System.Console.WriteLine("Welcome to c#");
 
+            System.Console.WriteLine("Welcome to  Mindteck");
         }
     }
 }
